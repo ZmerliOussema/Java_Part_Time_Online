@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body {
+	text-align: center;
+}
+.container {
+	margin-top: 300px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+a {
+	color: blue;
+	font-size: large;
+}
+
+.time_date {
+	margin-top: 300px;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
